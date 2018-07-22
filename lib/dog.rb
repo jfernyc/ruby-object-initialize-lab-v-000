@@ -17,11 +17,3 @@ class Dog
   
 end
 
-Dog.new("Fido")
-
-else 
-  
-  Dog.new("Mutt")
-  
-end 
-
