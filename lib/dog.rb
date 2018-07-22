@@ -15,13 +15,13 @@ class Dog
    
    def breed(Mutt)
      breed= Mutt
-    
-
+     
+   end 
+   
+   def breed
+     Mutt 
+     
+   end
   
   
 end
-
-
-breed = Dog.new
-
-breed = "Mutt"
