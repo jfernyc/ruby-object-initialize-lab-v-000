@@ -20,6 +20,4 @@ end
 
 fido = Dog.new("Fido")
 
-else 
-  
-breed
+fido.breed = "Mutt"
